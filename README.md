@@ -1,2 +1,3 @@
 # restaurant_randomizer
-A script to help with indecision when attempting to choose which restaurant to order from.
+A script to help with indecision when attempting to choose which restaurant to order from. \
+You will need to independently compile your own lists of cheap, not-so-cheap, and takeout-viable food options.
