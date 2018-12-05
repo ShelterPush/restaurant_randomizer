@@ -31,6 +31,5 @@ length = len(foodlist) - 1
 x = random.randint(1,length)
 print("""
 You should try""",foodlist[x])
-#print(foodlist[x])
 input("""
 Press the Enter key to close this window""")
