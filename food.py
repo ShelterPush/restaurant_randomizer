@@ -1,4 +1,4 @@
-# Script designed to aid in decided what to eat.
+# Script designed to aid in deciding what to eat.
 import random
 
 cheap = ["McDonalds", "Arbys", "Cookout", "Taco Bell", "Waffle House", "Subway", "Captain D's", "Bojangles", "Little Caesar's"]
